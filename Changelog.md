@@ -19,12 +19,12 @@ Added
 
 ## Version 4.0.0 (March 28, 2026)
 
- Added
-*Workload
+ Added                                                                                                                                  
+* Workload
 * More edit options
 * View task options and sorting
 * Urgency system
-*Better UI and stuff
+* Better UI and stuff
 
 ## Version 5.0.0 ( April 11, 2026)
 
