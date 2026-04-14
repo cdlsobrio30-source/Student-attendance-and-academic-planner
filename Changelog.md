@@ -1,8 +1,8 @@
 # Changelog
 ## Version 1.0.0 (March 3, 2026)
 
-Added
-*Academic Task Planner System
+Added                                                                                                                               
+* Academic Task Planner System
 
 ## Version 2.0.0 (March 12, 2026)
 
@@ -12,10 +12,10 @@ Added
 ## Version 3.0.0 (March 12, 2026)
 
 Added                                                                     
-*View tasks option                                                      
-*Edit tasks option                                                          
-*Add Task option                                                 
-*Exit option                                                                
+* View tasks option                                                      
+* Edit tasks option                                                          
+* Add Task option                                                 
+* Exit option                                                                
 
 ## Version 4.0.0 (March 28, 2026)
 
@@ -31,8 +31,8 @@ Added
 Added
 * Daily study plan option
 
-Improved                                                                   
-*Refined changelog.md for cleaner and better results
+Improved                                                                                                                                   
+* Refined changelog.md for cleaner and better results
 
 Fixed
 * Bug in the delete tasks part
@@ -40,4 +40,4 @@ Fixed
 ## Version 5.1.0 (April 14, 2026)
 
 Fixed                                                    
-*Bug in the Urgency and workload list order not working
+* Bug in the Urgency and workload list order not working
