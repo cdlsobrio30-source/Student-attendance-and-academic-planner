@@ -11,11 +11,11 @@ Added
 
 ## Version 3.0.0 (March 12, 2026)
 
-Added
-*View tasks option 
-*Edit tasks option
-*Add Task option 
-* Exit option 
+Added                                                                     
+*View tasks option                                                      
+*Edit tasks option                                                          
+*Add Task option                                                 
+* Exit option                                                                
 
 ## Version 4.0.0 (March 28, 2026)
 
