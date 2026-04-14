@@ -36,3 +36,8 @@ Improved
 
 Fixed
 * Bug in the delete tasks part
+
+## Version 6.0.0 (April 14, 2026)
+
+Fixed
+*Bug in the Urgency and workload list order not working
