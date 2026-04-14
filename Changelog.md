@@ -31,7 +31,7 @@ Added
 Added
 * Daily study plan option
 
-Improved
+Improved                                                                   
 *Refined changelog.md for cleaner and better results
 
 Fixed
