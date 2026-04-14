@@ -15,7 +15,7 @@ Added
 *View tasks option                                                      
 *Edit tasks option                                                          
 *Add Task option                                                 
-* Exit option                                                                
+*Exit option                                                                
 
 ## Version 4.0.0 (March 28, 2026)
 
@@ -37,7 +37,7 @@ Improved
 Fixed
 * Bug in the delete tasks part
 
-## Version 6.0.0 (April 14, 2026)
+## Version 5.1.0 (April 14, 2026)
 
 Fixed                                                    
 *Bug in the Urgency and workload list order not working
